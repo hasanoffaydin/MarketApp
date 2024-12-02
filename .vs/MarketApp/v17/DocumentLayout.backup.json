@@ -1,0 +1,226 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\MarketApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CFE24264-312B-415B-AA52-FB801625BD26}|MarketApp\\MarketApp.csproj|c:\\users\\lenovo\\documents\\windows form c#\\marketapp\\marketapp\\forbuyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFE24264-312B-415B-AA52-FB801625BD26}|MarketApp\\MarketApp.csproj|solutionrelative:marketapp\\forbuyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFE24264-312B-415B-AA52-FB801625BD26}|MarketApp\\MarketApp.csproj|c:\\users\\lenovo\\documents\\windows form c#\\marketapp\\marketapp\\forseller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFE24264-312B-415B-AA52-FB801625BD26}|MarketApp\\MarketApp.csproj|solutionrelative:marketapp\\forseller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFE24264-312B-415B-AA52-FB801625BD26}|MarketApp\\MarketApp.csproj|C:\\Users\\Lenovo\\Documents\\Windows Form C#\\MarketApp\\marketapp\\forseller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CFE24264-312B-415B-AA52-FB801625BD26}|MarketApp\\MarketApp.csproj|solutionrelative:marketapp\\forseller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFE24264-312B-415B-AA52-FB801625BD26}|MarketApp\\MarketApp.csproj|c:\\users\\lenovo\\documents\\windows form c#\\marketapp\\marketapp\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFE24264-312B-415B-AA52-FB801625BD26}|MarketApp\\MarketApp.csproj|solutionrelative:marketapp\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFE24264-312B-415B-AA52-FB801625BD26}|MarketApp\\MarketApp.csproj|C:\\Users\\Lenovo\\Documents\\Windows Form C#\\MarketApp\\marketapp\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CFE24264-312B-415B-AA52-FB801625BD26}|MarketApp\\MarketApp.csproj|solutionrelative:marketapp\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFE24264-312B-415B-AA52-FB801625BD26}|MarketApp\\MarketApp.csproj|c:\\users\\lenovo\\documents\\windows form c#\\marketapp\\marketapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFE24264-312B-415B-AA52-FB801625BD26}|MarketApp\\MarketApp.csproj|solutionrelative:marketapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFE24264-312B-415B-AA52-FB801625BD26}|MarketApp\\MarketApp.csproj|C:\\Users\\Lenovo\\Documents\\Windows Form C#\\MarketApp\\marketapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CFE24264-312B-415B-AA52-FB801625BD26}|MarketApp\\MarketApp.csproj|solutionrelative:marketapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFE24264-312B-415B-AA52-FB801625BD26}|MarketApp\\MarketApp.csproj|c:\\users\\lenovo\\documents\\windows form c#\\marketapp\\marketapp\\connection\\datawork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFE24264-312B-415B-AA52-FB801625BD26}|MarketApp\\MarketApp.csproj|solutionrelative:marketapp\\connection\\datawork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFE24264-312B-415B-AA52-FB801625BD26}|MarketApp\\MarketApp.csproj|c:\\users\\lenovo\\documents\\windows form c#\\marketapp\\marketapp\\entity\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFE24264-312B-415B-AA52-FB801625BD26}|MarketApp\\MarketApp.csproj|solutionrelative:marketapp\\entity\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFE24264-312B-415B-AA52-FB801625BD26}|MarketApp\\MarketApp.csproj|c:\\users\\lenovo\\documents\\windows form c#\\marketapp\\marketapp\\entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFE24264-312B-415B-AA52-FB801625BD26}|MarketApp\\MarketApp.csproj|solutionrelative:marketapp\\entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFE24264-312B-415B-AA52-FB801625BD26}|MarketApp\\MarketApp.csproj|c:\\users\\lenovo\\documents\\windows form c#\\marketapp\\marketapp\\entity\\buyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFE24264-312B-415B-AA52-FB801625BD26}|MarketApp\\MarketApp.csproj|solutionrelative:marketapp\\entity\\buyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFE24264-312B-415B-AA52-FB801625BD26}|MarketApp\\MarketApp.csproj|C:\\Users\\Lenovo\\Documents\\Windows Form C#\\MarketApp\\marketapp\\forbuyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CFE24264-312B-415B-AA52-FB801625BD26}|MarketApp\\MarketApp.csproj|solutionrelative:marketapp\\forbuyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFE24264-312B-415B-AA52-FB801625BD26}|MarketApp\\MarketApp.csproj|c:\\users\\lenovo\\documents\\windows form c#\\marketapp\\marketapp\\forbuyer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFE24264-312B-415B-AA52-FB801625BD26}|MarketApp\\MarketApp.csproj|solutionrelative:marketapp\\forbuyer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DataWork.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\MarketApp\\MarketApp\\Connection\\DataWork.cs",
+              "RelativeDocumentMoniker": "MarketApp\\Connection\\DataWork.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\MarketApp\\MarketApp\\Connection\\DataWork.cs",
+              "RelativeToolTip": "MarketApp\\Connection\\DataWork.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAwAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T17:24:52.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Buyer.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\MarketApp\\MarketApp\\Entity\\Buyer.cs",
+              "RelativeDocumentMoniker": "MarketApp\\Entity\\Buyer.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\MarketApp\\MarketApp\\Entity\\Buyer.cs",
+              "RelativeToolTip": "MarketApp\\Entity\\Buyer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T17:23:08.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ForBuyer.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\MarketApp\\MarketApp\\ForBuyer.cs",
+              "RelativeDocumentMoniker": "MarketApp\\ForBuyer.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\MarketApp\\MarketApp\\ForBuyer.cs",
+              "RelativeToolTip": "MarketApp\\ForBuyer.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAMwHUAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T18:40:42.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ForSeller.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\MarketApp\\MarketApp\\ForSeller.cs",
+              "RelativeDocumentMoniker": "MarketApp\\ForSeller.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\MarketApp\\MarketApp\\ForSeller.cs",
+              "RelativeToolTip": "MarketApp\\ForSeller.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAEIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T18:01:55.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Seller.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\MarketApp\\MarketApp\\Entity\\Seller.cs",
+              "RelativeDocumentMoniker": "MarketApp\\Entity\\Seller.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\MarketApp\\MarketApp\\Entity\\Seller.cs",
+              "RelativeToolTip": "MarketApp\\Entity\\Seller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T17:17:49.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SignUp.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\MarketApp\\MarketApp\\SignUp.cs",
+              "RelativeDocumentMoniker": "MarketApp\\SignUp.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\MarketApp\\MarketApp\\SignUp.cs [Design]",
+              "RelativeToolTip": "MarketApp\\SignUp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T17:13:21.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\MarketApp\\MarketApp\\Form1.cs",
+              "RelativeDocumentMoniker": "MarketApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\MarketApp\\MarketApp\\Form1.cs [Design]",
+              "RelativeToolTip": "MarketApp\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T17:05:29.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\MarketApp\\MarketApp\\Form1.cs",
+              "RelativeDocumentMoniker": "MarketApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\MarketApp\\MarketApp\\Form1.cs",
+              "RelativeToolTip": "MarketApp\\Form1.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAmwEcAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T17:07:39.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\MarketApp\\MarketApp\\Entity\\Product.cs",
+              "RelativeDocumentMoniker": "MarketApp\\Entity\\Product.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\MarketApp\\MarketApp\\Entity\\Product.cs",
+              "RelativeToolTip": "MarketApp\\Entity\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T18:09:26.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SignUp.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\MarketApp\\MarketApp\\SignUp.cs",
+              "RelativeDocumentMoniker": "MarketApp\\SignUp.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\MarketApp\\MarketApp\\SignUp.cs",
+              "RelativeToolTip": "MarketApp\\SignUp.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwEYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T17:27:46.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ForSeller.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\MarketApp\\MarketApp\\ForSeller.cs",
+              "RelativeDocumentMoniker": "MarketApp\\ForSeller.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\MarketApp\\MarketApp\\ForSeller.cs [Design]",
+              "RelativeToolTip": "MarketApp\\ForSeller.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T17:44:08.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ForBuyer.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\MarketApp\\MarketApp\\ForBuyer.cs",
+              "RelativeDocumentMoniker": "MarketApp\\ForBuyer.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\MarketApp\\MarketApp\\ForBuyer.cs [Design]",
+              "RelativeToolTip": "MarketApp\\ForBuyer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T17:44:29.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ForBuyer.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\MarketApp\\MarketApp\\ForBuyer.Designer.cs",
+              "RelativeDocumentMoniker": "MarketApp\\ForBuyer.Designer.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\MarketApp\\MarketApp\\ForBuyer.Designer.cs",
+              "RelativeToolTip": "MarketApp\\ForBuyer.Designer.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAcwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T20:16:41.518Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
